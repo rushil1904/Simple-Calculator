@@ -1,2 +1,2 @@
-# Simple-Calculator
-A simple calculator created using C
+# Calculator
+Creating simple calculators using various languages
